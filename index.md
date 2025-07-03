@@ -1,3 +1,8 @@
+---
+layout: default
+title: Bruno Estrada – Data Scientist
+---
+
 # Bruno Estrada
 
 **Data Scientist | Machine Learning Enthusiast | Problem Solver**
