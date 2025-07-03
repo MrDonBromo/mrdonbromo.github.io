@@ -1,4 +1,4 @@
-# Hi, I'm Bruno Estrada
+# Bruno Estrada
 
 **Data Scientist | Machine Learning Enthusiast | Problem Solver**
 
