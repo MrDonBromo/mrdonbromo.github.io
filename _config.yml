@@ -1,1 +1,6 @@
-remote_theme: pages-themes/modernist
+title: Bruno Estrada
+description: Data Scientist Portfolio
+remote_theme: pages-themes/modernist@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
