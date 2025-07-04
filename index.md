@@ -1,7 +1,3 @@
-<img src="/assets/profile.jpg" alt="Site logo" style="border-radius: 50%; width: 120px;">
-
-
-
 ## About Me
 
 I’m passionate about turning data into actionable insights. I enjoy working with Python, machine learning models, and data visualization tools like Power BI.
