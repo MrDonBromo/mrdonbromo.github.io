@@ -21,4 +21,4 @@ I’m passionate about turning data into actionable insights. I enjoy working wi
 
 - Email: bruno-kevin@hotmail.com
 - GitHub: [MrDonBromo](https://github.com/MrDonBromo)
-- LinkedIn: https://www.linkedin.com/in/bruno-estrada/
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bruno-estrada/)
