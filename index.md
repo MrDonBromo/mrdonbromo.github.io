@@ -19,5 +19,6 @@ I’m passionate about turning data into actionable insights. I enjoy working wi
 
 ## Contact
 
-- Email: your.email@example.com  
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: bruno-kevin@hotmail.com
+- GitHub: [MrDonBromo](https://github.com/MrDonBromo)
+- LinkedIn: https://www.linkedin.com/in/bruno-estrada/
