@@ -1,10 +1,4 @@
----
-layout: default
----
-
-![Bruno Estrada](/assets/profile.jpg)
-
----
+<img src="/assets/profile.png" alt="Bruno Estrada" style="float: left; margin-right: 20px; width: 150px; border-radius: 50%;">
 
 ## About Me
 
