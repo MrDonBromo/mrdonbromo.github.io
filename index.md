@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Bruno Estrada](/assets/profile.png)
+![Bruno Estrada](/assets/profile.jpg)
 
 ---
 
