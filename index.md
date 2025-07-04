@@ -1,4 +1,8 @@
-## Data Scientist | BI Analyst | Python | SQL | Problem Solver
+---
+layout: default
+---
+
+![Bruno Estrada](/assets/profile.png)
 
 ---
 
