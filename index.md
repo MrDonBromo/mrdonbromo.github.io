@@ -1,5 +1,3 @@
-<img src="/assets/profile.png" alt="Bruno Estrada" style="float: left; margin-right: 20px; width: 150px; border-radius: 50%;">
-
 ## About Me
 
 I’m passionate about turning data into actionable insights. I enjoy working with Python, machine learning models, and data visualization tools like Power BI.
