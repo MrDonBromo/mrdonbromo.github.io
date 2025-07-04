@@ -1,14 +1,8 @@
-# Bruno Estrada
-
-**Data Scientist | Machine Learning Enthusiast | Problem Solver**
-
-
-
 ## About Me
 
 I’m passionate about turning data into actionable insights. I enjoy working with Python, machine learning models, and data visualization tools like Power BI.
 
-
+---
 
 ## Projects
 
@@ -21,7 +15,7 @@ I’m passionate about turning data into actionable insights. I enjoy working wi
 - Used `GridSearchCV` to tune hyperparameters for `XGBoost`, `RandomForestClassifier`, and `LogisticRegression`.
 - Evaluated models using **F1-score** and **ROC-AUC curves** to select the most performant approach.
 
-
+---
 
 ## Contact
 
