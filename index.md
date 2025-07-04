@@ -1,3 +1,7 @@
+## Data Scientist | BI Analyst | Python | SQL | Problem Solver
+
+---
+
 ## About Me
 
 I’m passionate about turning data into actionable insights. I enjoy working with Python, machine learning models, and data visualization tools like Power BI.
