@@ -5,10 +5,3 @@ logo: /assets/profile.jpg
 
 plugins:
   - jekyll-remote-theme
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      css: /assets/css/style.scss
